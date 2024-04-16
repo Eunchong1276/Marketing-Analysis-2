@@ -30,7 +30,6 @@ https://colab.research.google.com/drive/1bP7yfyFuRD7WmDCeQPD04kyaGcmDlxYn?usp=sh
 <!DOCTYPE html>
 <html>
 <head>
-    <title>시각화 대시보드</title>
 </head>
 <body>
     <h1>시각화 대시보드</h1>
