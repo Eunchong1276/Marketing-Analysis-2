@@ -27,7 +27,6 @@ EDA를 통한 고객 주문 트렌드 파악
 https://colab.research.google.com/drive/1bP7yfyFuRD7WmDCeQPD04kyaGcmDlxYn?usp=sharing
 
 * plotly 시각화
-<!DOCTYPE html>
 <html>
 <head>
 </head>
