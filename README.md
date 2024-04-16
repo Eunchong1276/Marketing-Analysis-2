@@ -26,12 +26,11 @@ EDA를 통한 고객 주문 트렌드 파악
 * 프로젝트 상세
 https://colab.research.google.com/drive/1bP7yfyFuRD7WmDCeQPD04kyaGcmDlxYn?usp=sharing
 
-* plotly 시각화
 <html>
 <head>
 </head>
 <body>
-    <h1>시각화 대시보드</h1>
+    <h1>Plotly 시각화 대시보드</h1>
     <ul>
         <li><a href="increase_pct.html">시각화 1</a></li>
         <li><a href="daily_sales.html">시각화 2</a></li>
