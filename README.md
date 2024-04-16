@@ -27,4 +27,4 @@ EDA를 통한 고객 주문 트렌드 파악
 https://colab.research.google.com/drive/1bP7yfyFuRD7WmDCeQPD04kyaGcmDlxYn?usp=sharing
 
 * 시각화 대시보드
-대시보드를 보려면 [이 링크](https://Eunchong1276.github.io/Marketing-Anaysis-2/index.html)를 클릭하세요.
+대시보드를 보려면 [이 링크](https://Eunchong1276.github.io/Marketing-Anaysis-2/index.html](https://eunchong1276.github.io/Marketing-Analysis-2/)를 클릭하세요.
